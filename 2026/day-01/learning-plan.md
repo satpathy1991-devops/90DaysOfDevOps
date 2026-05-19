@@ -7,11 +7,8 @@ Define 3 clear goals for the next 90 days -
 => Docker
 => Kubernetes
 => CICD
-=>
-(example: deploy a production-grade application on Kubernetes)
-Define 3 core DevOps skills you want to build
-(example: Linux troubleshooting, CI/CD pipelines, Kubernetes debugging)
-Allocate a weekly time budget
-(example: 2–2.5 hours per day on weekdays, 4-6 hours weekends)
-Keep the document under 1 page
-Be honest and realistic; consistency matters more than perfection
+=> AWS
+=> AZURE devops
+=>  deploy a production-grade application on Kubernetes
+Promise to spend 2.5 hrs daily and 8 hours on saturday and sunday.
+Starting my journey from here to devops engineer.
